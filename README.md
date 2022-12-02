@@ -1,6 +1,6 @@
 # simple-sapper
 simple sapper in c++ by noob.     
-#install     
+# install     
 <code>
 g++ main.cpp src/*.src -I include/ -o game.exe
 </code>
